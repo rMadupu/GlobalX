@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "GlobalX.Console": {
+      "commandName": "Project"
+    }
+  }
+}

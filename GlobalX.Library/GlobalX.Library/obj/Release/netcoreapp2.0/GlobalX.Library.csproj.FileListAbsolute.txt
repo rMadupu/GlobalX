@@ -1,0 +1,9 @@
+D:\Raveendra\Interview\GlobalX\GlobalX.Library\GlobalX.Library\bin\Release\netcoreapp2.0\GlobalX.Library.deps.json
+D:\Raveendra\Interview\GlobalX\GlobalX.Library\GlobalX.Library\bin\Release\netcoreapp2.0\GlobalX.Library.dll
+D:\Raveendra\Interview\GlobalX\GlobalX.Library\GlobalX.Library\bin\Release\netcoreapp2.0\GlobalX.Library.pdb
+D:\Raveendra\Interview\GlobalX\GlobalX.Library\GlobalX.Library\obj\Release\netcoreapp2.0\GlobalX.Library.csprojAssemblyReference.cache
+D:\Raveendra\Interview\GlobalX\GlobalX.Library\GlobalX.Library\obj\Release\netcoreapp2.0\GlobalX.Library.csproj.CoreCompileInputs.cache
+D:\Raveendra\Interview\GlobalX\GlobalX.Library\GlobalX.Library\obj\Release\netcoreapp2.0\GlobalX.Library.AssemblyInfoInputs.cache
+D:\Raveendra\Interview\GlobalX\GlobalX.Library\GlobalX.Library\obj\Release\netcoreapp2.0\GlobalX.Library.AssemblyInfo.cs
+D:\Raveendra\Interview\GlobalX\GlobalX.Library\GlobalX.Library\obj\Release\netcoreapp2.0\GlobalX.Library.dll
+D:\Raveendra\Interview\GlobalX\GlobalX.Library\GlobalX.Library\obj\Release\netcoreapp2.0\GlobalX.Library.pdb
